@@ -21,7 +21,7 @@ ms.date: 03/20/2018
 > - For TFS 2017 users, the new form is automatically available when you add projects to a new collection. For existing projects, an admin is required to [enable the new form](../manage-new-form-rollout.md).<br/>
 > - For TFS 2015 users, the new form isn't available. You must [upgrade to TFS 2017 or later version](https://visualstudio.microsoft.com/downloads/) to access the new form.  
 
-Work items have received a facelift. To provide a fresher, more modern experience to tracking work, we've replaced our "old and clunky" form. Along with the noticeable responsive form layout, with the nre form you now have access to these features:
+Work items have received a facelift. To provide a fresher, more modern experience to tracking work, we've replaced our "old and clunky" form. Along with the noticeable responsive form layout, with the new form you now have access to these features:
 
 - **Discussion control** with a discussion indicator in the banner that summarizes the number of comments in the discussion and from which you can quickly jump to the discussion and add your comments; this control also supports:
 	- **@mention** which allows you to quickly add team members to receive an email notification with your comments and a link to the work item in which you mentioned them.
